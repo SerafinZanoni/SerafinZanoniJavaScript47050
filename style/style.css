@@ -15,6 +15,7 @@ header {
   padding: 20px 0;
 }
 header h1 {
+  font-size: 36px;
   padding-bottom: 10px;
 }
 nav ul {
@@ -36,7 +37,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: #ff6600;
+  color: #ff0000;
 }
 main {
   width: 60%;
@@ -54,13 +55,20 @@ main input {
   margin-bottom: 20px;
 }
 body main h2 {
+  color: whitesmoke;
   text-align: center;
   padding: 15px;
+  margin-bottom: 15px;
 }
 
-iframe {
-  width: 100%;
-  height: 400px;
+.imgContenedor {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#imagenInicio {
+  width: 500px;
+  height: 500px;
 }
 
 section {
@@ -85,7 +93,7 @@ section h1 {
   cursor: pointer;
   color: white;
   box-shadow: 0px 0px 14px 0px rgba(0, 0, 0, 0.2);
-  background: url("img/carrito.png") no-repeat #244ced;
+  background: url("/img/carrito.png") no-repeat #244ced;
   background-size: 60%;
   background-position: 9px center;
 }
@@ -204,6 +212,7 @@ section h3 {
 }
 
 label {
+  color: whitesmoke;
   display: block;
   text-align: left;
   margin-bottom: 5px;

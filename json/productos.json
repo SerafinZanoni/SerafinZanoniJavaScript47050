@@ -1,0 +1,61 @@
+
+[
+    {
+      "id": 1,
+      "nombre": "Manzana",
+      "precio": 400,
+      "categoria": "Frutas",
+      "imagen": "manzana.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Naranja",
+      "precio": 300,
+      "categoria": "Frutas",
+      "imagen": "naranja.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Banana",
+      "precio": 400,
+      "categoria": "Frutas",
+      "imagen": "banana.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Pan",
+      "precio": 200,
+      "categoria": "Panadería",
+      "imagen": "pan.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Tomate",
+      "precio": 300,
+      "categoria": "Verduras",
+      "imagen": "tomate.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Lechuga",
+      "precio": 250,
+      "categoria": "Verduras",
+      "imagen": "lechuga.png"
+    },
+    {
+        "id": 7,
+        "nombre": "Cebolla",
+        "precio": 350,
+        "categoria": "Verduras",
+        "imagen": "cebolla.png"
+      },
+      {
+        "id": 4,
+        "nombre": "Pan Integral",
+        "precio": 200,
+        "categoria": "Panadería",
+        "imagen": "panintegral.png"
+      }
+
+
+  ]
